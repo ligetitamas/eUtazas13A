@@ -20,7 +20,7 @@
         "test": "jest || ECHO.",
         "dev": "nodemon"
     },
-    "author": "Nits László",
+    "author": "Ligeti Tamás",
     "license": "MIT",
     "dependencies": {
         "tslib": "^2.0.1"
